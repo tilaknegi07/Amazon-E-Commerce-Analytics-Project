@@ -120,14 +120,14 @@ Power BI → Interactive Dashboards & Reports
 - Returned vs. realized revenue by category
 - Return revenue percentage by category
 
-**Brand Performance (Section E)**
+**Brand Performance (Section D)**
 - Brand-wise revenue and order metrics
 - Average order value by brand
 - Brand-wise discount patterns
 - Product ratings correlate with brand performance
 - Return counts by brand
 
-**Advanced Analytics with Window Functions (Section F)**
+**Advanced Analytics with Window Functions (Section E)**
 - **Revenue Ranking:**
   - RANK() and DENSE_RANK() for category revenue
   
@@ -137,7 +137,7 @@ Power BI → Interactive Dashboards & Reports
 - **Customer Value Segmentation:**
   - Revenue analysis by price bucket tiers
 
-**Geographic Analysis (Section G)**
+**Geographic Analysis (Section F)**
 - **City-Level Metrics:**
   - Orders and revenue by city
   - Average order value per city
@@ -148,7 +148,7 @@ Power BI → Interactive Dashboards & Reports
   - Identifying leading product categories in each location
   - Using PARTITION BY for location-specific rankings
 
-**Seller Analysis (Section H)**
+**Seller Analysis (Section G)**
 - Seller-wise average order value (AOV)
 - Comparison against overall AOV
 - High-performing sellers (above-average AOV)
