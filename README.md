@@ -321,7 +321,7 @@ This project is licensed under the MIT License
 ## 📊 Sample Visualizations
 
 ### Revenue by Category
-![Category Revenue](<img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/5decc78e-7e1e-4715-9061-e1cd306e0997" />
+![Category Revenue](<img width="1116" height="630" alt="image" src="https://github.com/user-attachments/assets/776594fa-4b8b-42d4-88ee-481695d02300" />
 )
 
 ### Geographic Distribution
