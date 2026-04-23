@@ -18,7 +18,7 @@ A comprehensive end-to-end data analytics project analyzing Amazon e-commerce tr
 
 ## 🎯 Project Overview
 
-This project performs an in-depth analysis of Amazon e-commerce data to uncover actionable business insights. The analysis covers multiple dimensions including:
+This project performs in-depth analysis of Amazon e-commerce data to uncover actionable business insights. The analysis covers multiple dimensions including:
 - Revenue patterns and trends
 - Product category performance
 - Customer behavior analysis
@@ -120,14 +120,14 @@ Power BI → Interactive Dashboards & Reports
 - Returned vs. realized revenue by category
 - Return revenue percentage by category
 
-**Brand Performance (Section D)**
+**Brand Performance (Section E)**
 - Brand-wise revenue and order metrics
 - Average order value by brand
 - Brand-wise discount patterns
-- Product ratings correlate with brand performance
+- Product ratings correlation with brand performance
 - Return counts by brand
 
-**Advanced Analytics with Window Functions (Section E)**
+**Advanced Analytics with Window Functions (Section F)**
 - **Revenue Ranking:**
   - RANK() and DENSE_RANK() for category revenue
   
@@ -137,7 +137,7 @@ Power BI → Interactive Dashboards & Reports
 - **Customer Value Segmentation:**
   - Revenue analysis by price bucket tiers
 
-**Geographic Analysis (Section F)**
+**Geographic Analysis (Section G)**
 - **City-Level Metrics:**
   - Orders and revenue by city
   - Average order value per city
@@ -148,7 +148,7 @@ Power BI → Interactive Dashboards & Reports
   - Identifying leading product categories in each location
   - Using PARTITION BY for location-specific rankings
 
-**Seller Analysis (Section G)**
+**Seller Analysis (Section H)**
 - Seller-wise average order value (AOV)
 - Comparison against overall AOV
 - High-performing sellers (above-average AOV)
@@ -160,7 +160,7 @@ Power BI → Interactive Dashboards & Reports
 
 ### 3. Power BI Dashboard (`amazon_e_commerce.pbix`)
 
-Interactive visualizations, including:
+Interactive visualizations including:
 - Executive summary dashboard with KPIs
 - Category and brand performance charts
 - Geographic heatmaps
@@ -214,7 +214,7 @@ pip install pandas numpy matplotlib seaborn psycopg2-binary sqlalchemy
 ### Step 3: Database Setup
 ```sql
 -- Create database in PostgreSQL
-CREATE DATABASE Amazon_e-commerce;
+CREATE DATABASE amazone_e-commerce;
 ```
 
 ### Step 4: Configure Database Connection
@@ -318,5 +318,22 @@ This project is licensed under the MIT License
 
 **Note:** This project is for educational and portfolio purposes. The dataset used is synthetic/sample data and does not represent actual Amazon transactions.
 
+## 📊 Sample Visualizations
+
+### Revenue by Category
+![Category Revenue](<img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/5decc78e-7e1e-4715-9061-e1cd306e0997" />
+)
+
+### Geographic Distribution
+![Geographic Heatmap](<img width="1118" height="626" alt="image" src="https://github.com/user-attachments/assets/bf77d7b0-c44d-4989-8d64-3094e4a05721" />
+
+)
+
+### Time Series Analysis
+![Revenue Trends]()
+
+*Add actual screenshots after generating them from your Power BI dashboard*
+
+---
 
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
