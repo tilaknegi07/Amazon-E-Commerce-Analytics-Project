@@ -18,7 +18,7 @@ A comprehensive end-to-end data analytics project analyzing Amazon e-commerce tr
 
 ## 🎯 Project Overview
 
-This project performs in-depth analysis of Amazon e-commerce data to uncover actionable business insights. The analysis covers multiple dimensions including:
+This project performs an in-depth analysis of Amazon e-commerce data to uncover actionable business insights. The analysis covers multiple dimensions, including:
 - Revenue patterns and trends
 - Product category performance
 - Customer behavior analysis
@@ -160,7 +160,7 @@ Power BI → Interactive Dashboards & Reports
 
 ### 3. Power BI Dashboard (`amazon_e_commerce.pbix`)
 
-Interactive visualizations including:
+Interactive visualizations, including:
 - Executive summary dashboard with KPIs
 - Category and brand performance charts
 - Geographic heatmaps
@@ -214,7 +214,7 @@ pip install pandas numpy matplotlib seaborn psycopg2-binary sqlalchemy
 ### Step 3: Database Setup
 ```sql
 -- Create database in PostgreSQL
-CREATE DATABASE amazone_e-commerce;
+CREATE DATABASE Amazon_e-commerce;
 ```
 
 ### Step 4: Configure Database Connection
@@ -321,18 +321,13 @@ This project is licensed under the MIT License
 ## 📊 Sample Visualizations
 
 ### Revenue by Category
-![Category Revenue](<img width="1116" height="630" alt="image" src="https://github.com/user-attachments/assets/776594fa-4b8b-42d4-88ee-481695d02300" />
-)
+![Category Revenue](<img width="1116" height="630" alt="image" src="https://github.com/user-attachments/assets/776594fa-4b8b-42d4-88ee-481695d02300" /> )
 
 ### Geographic Distribution
 ![Geographic Heatmap](<img width="1118" height="626" alt="image" src="https://github.com/user-attachments/assets/bf77d7b0-c44d-4989-8d64-3094e4a05721" />
 
 )
 
-### Time Series Analysis
-![Revenue Trends]()
-
-*Add actual screenshots after generating them from your Power BI dashboard*
 
 ---
 
